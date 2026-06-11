@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Umidjon+%F0%9F%91%8B;Python+Backend+Developer;Linux+Systems+Programmer;Clean+Architecture+Enthusiast" alt="typing svg" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Umidjon+%F0%9F%91%8B;Python+Backend+Developer;Linux+Systems+Engineer;Clean+Architecture+Advocate" alt="Typing animation" />
 
 <br/>
 
@@ -23,7 +23,7 @@ Focus     : Clean Architecture · Backend · Linux Systems Programming
 
 **Self-taught from zero.** No courses, no bootcamp—only real projects and the discipline to go deep before moving on.
 
-In just 5 months, I've already built a production-ready Linux filesystem watcher daemon with systemd integration, inotify, Unix sockets, and full hexagonal architecture. Published to PyPI. No compromises on code quality.
+In just 5 months, I've already built a production-ready Linux filesystem watcher daemon with systemd integration, inotify, Unix sockets, and full hexagonal architecture. Published to PyPI. No comp[...]
 
 > **Every project teaches me something I couldn't learn any other way. I don't follow tutorials. I build projects.**
 
@@ -63,7 +63,7 @@ I spend ~95% of my time on documentation versus implementation. No docs? No proj
 
 | 🔍 Project | 📝 Description | 🔴 Status |
 |-----------|-----------|---------|
-| **[vakt](https://github.com/Umidjon-Kh/Python-Journey/tree/main/vakt_v2)** | Linux filesystem watcher daemon with systemd, Unix socket IPC, inotify, WatchNode tree structure | ✅ Production Ready |
+| **[vakt](https://github.com/Umidjon-Kh/Python-Journey/tree/main/vakt_v2)** | Linux filesystem watcher daemon with systemd, Unix socket IPC, inotify, WatchNode tree structure | 🔄 In Progress |
 | **[snaps-cacher](https://github.com/Umidjon-Kh/Python-Journey/tree/main/snaps)** | Caching library with TTL, LRU, LFU and composable policies. Zero dependencies. On PyPI | ✅ Complete |
 | **[klart](https://github.com/Umidjon-Kh/Base_Python/tree/main/klart)** | CLI file organizer. Rule-based sorting, dry-run mode, recursive operations | ✅ Complete |
 | **[DSA](https://github.com/Umidjon-Kh/DSA)** | 70+ data structures and 15+ algorithms with visualizations | 🔄 In Progress |
@@ -86,7 +86,7 @@ I spend ~95% of my time on documentation versus implementation. No docs? No proj
 
 <div align="center">
 
-![Umidjon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umidjon-Kh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=E63946&icon_color=E63946&text_color=C9D1D9&bg_color=0D1117)
+![Umidjon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umidjon-Kh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=E63946&icon_color=E63946&[...]
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umidjon-Kh&layout=compact&theme=github_dark&hide_border=true&title_color=E63946&text_color=C9D1D9&bg_color=0D1117)
 
