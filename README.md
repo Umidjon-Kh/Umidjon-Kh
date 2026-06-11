@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Umidjon+%F0%9F%91%8B;Python+Backend+Developer;Linux+Systems+Programmer;Clean+Architecture+Enthusiast" alt="typing-svg" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Umidjon+%F0%9F%91%8B;Python+Backend+Developer;Linux+Systems+Programmer;Clean+Architecture+Enthusiast" alt="typing svg" />
 
 <br/>
 
@@ -11,41 +11,41 @@
 
 ---
 
-## 👤 Кто я
+## 👤 About Me
 
 ```
-Имя      : Умиджон Ходжаев
-Локация  : Ташкент, Узбекистан
-График   : Ночной сокол — лучше всего работается после полуночи
-Опыт     : Python — 5 месяцев с нуля, никакого bootcamp'а
-Фокус    : Чистая архитектура · Backend · Системное программирование Linux
+Name      : Umidjon Khodzhaev
+Location  : Tashkent, Uzbekistan
+Schedule  : Night owl — most productive after midnight
+Experience: Python — 5 months from zero, no bootcamp whatsoever
+Focus     : Clean Architecture · Backend · Linux Systems Programming
 ```
 
-**Самоучка с нулевого уровня.** Никаких курсов, никакого bootcamp'а — только реальные проекты и отказ переходить дальше, пока не пойму, как всё работает под капотом.
+**Self-taught from zero.** No courses, no bootcamp—only real projects and the discipline to go deep before moving on.
 
-Всего за 5 месяцев уже построил production-ready Linux filesystem watcher daemon с systemd интеграцией, inotify, Unix сокетами и полной гексагональной архитектурой.
+In just 5 months, I've already built a production-ready Linux filesystem watcher daemon with systemd integration, inotify, Unix sockets, and full hexagonal architecture. Published to PyPI. No compromises on code quality.
 
-> **Каждый проект учит меня тому, чему я не смог бы научиться никак иначе. Я не делаю туториалы. Я делаю проекты.**
+> **Every project teaches me something I couldn't learn any other way. I don't follow tutorials. I build projects.**
 
 ---
 
-## 🧠 Моя философия кода
+## 🧠 My Code Philosophy
 
 ### 🎯 **NYR — Not Your Responsibility**
-Каждый компонент делает ровно одно. Если это не твоя работа — не трогай это. Этот принцип пронизывает каждую строку кода.
+Each component does exactly one thing. If it's not your job—don't touch it. This principle runs through everything I write.
 
 ### 🔨 **Build Until You Understand**
-Я не перехожу к следующей теме, пока текущая не станет ясна на 100%. Не просто "работает", а понимаю каждое решение.
+I don't move to the next topic until the current one is 100% clear. Not just "it works"—I understand every design decision.
 
 ### 🏗️ **Architecture First**
-Чистая гексагональная архитектура — это не для "серьёзных" проектов только. Это стандарт. Даже маленький CLI инструмент заслуживает правильные ports и adapters.
+Clean hexagonal architecture isn't just for "serious" projects. It's the standard. Even a small CLI must be architected properly.
 
 ### 📚 **Documentation is Code**
-Я трачу ~95% времени на документацию vs реализацию. Если нет документации — нет проекта.
+I spend ~95% of my time on documentation versus implementation. No docs? No project.
 
 ---
 
-## 🛠️ Мой стек
+## 🛠️ My Stack
 
 ![Python](https://img.shields.io/badge/Python-E63946?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E63946?style=for-the-badge&logo=linux&logoColor=white)
@@ -55,34 +55,34 @@
 ![Poetry](https://img.shields.io/badge/Poetry-E63946?style=for-the-badge&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-E63946?style=for-the-badge&logo=pytest&logoColor=white)
 
-**Концепции:** Hexagonal Architecture · Producer-Consumer · Dependency Injection · IPC · inotify · Unix Sockets · Lazy Dependency Graphs · Threading Models
+**Concepts:** Hexagonal Architecture · Producer-Consumer · Dependency Injection · IPC · inotify · Unix Sockets · Lazy Dependency Graphs · Threading Models
 
 ---
 
-## 📦 Мои проекты
+## 📦 My Projects
 
-| 🔍 Проект | 📝 Описание | 🔴 Статус |
+| 🔍 Project | 📝 Description | 🔴 Status |
 |-----------|-----------|---------|
-| **[vakt](https://github.com/Umidjon-Kh/Python-Journey/tree/main/vakt_v2)** | Linux filesystem watcher daemon с systemd, Unix socket IPC, inotify, WatchNode tree структура | ✅ Production |
-| **[snaps-cacher](https://github.com/Umidjon-Kh/Python-Journey/tree/main/snaps)** | Кеширующая библиотека с TTL, LRU, LFU и composable policies. Zero dependencies. На PyPI | ✅ Published |
-| **[klart](https://github.com/Umidjon-Kh/Base_Python/tree/main/klart)** | CLI органайзер файлов. Rule-based sorting, dry-run, рекурсивный режим | ✅ Complete |
-| **[DSA](https://github.com/Umidjon-Kh/DSA)** | 70+ структур данных и 15+ алгоритмов с визуализацией | 🔄 In Progress |
+| **[vakt](https://github.com/Umidjon-Kh/Python-Journey/tree/main/vakt_v2)** | Linux filesystem watcher daemon with systemd, Unix socket IPC, inotify, WatchNode tree structure | ✅ Production Ready |
+| **[snaps-cacher](https://github.com/Umidjon-Kh/Python-Journey/tree/main/snaps)** | Caching library with TTL, LRU, LFU and composable policies. Zero dependencies. On PyPI | ✅ Complete |
+| **[klart](https://github.com/Umidjon-Kh/Base_Python/tree/main/klart)** | CLI file organizer. Rule-based sorting, dry-run mode, recursive operations | ✅ Complete |
+| **[DSA](https://github.com/Umidjon-Kh/DSA)** | 70+ data structures and 15+ algorithms with visualizations | 🔄 In Progress |
 
 ---
 
-## 🎓 Чему я научился
+## 🎓 What I've Learned
 
-- ✅ Архитектурное мышление (не просто код, а система)
+- ✅ Architectural thinking (not just code, but a system)
 - ✅ Linux kernel interfaces (inotify, Unix sockets, systemd)
-- ✅ Асинхронное программирование и многопоточность
-- ✅ Dependency Injection и инверсия управления
-- ✅ Как правильно читать исходный код других
-- ✅ TDD и модульное тестирование
-- ✅ Production-ready code (обработка ошибок, логирование, конфиг)
+- ✅ Asynchronous programming and multithreading
+- ✅ Dependency Injection and inversion of control
+- ✅ How to read and understand other people's code
+- ✅ TDD and unit testing
+- ✅ Production-ready code (error handling, logging, configuration)
 
 ---
 
-## 📊 GitHub статистика
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -96,25 +96,25 @@
 
 ---
 
-## 🔗 Ссылки
+## 🔗 Links
 
 - 🐍 **PyPI:** [@snaps-cacher](https://pypi.org/project/snaps-cacher/)
 - 📂 **GitHub:** [@Umidjon-Kh](https://github.com/Umidjon-Kh)
-- 🗂️ **Проекты:** [Python-Journey](https://github.com/Umidjon-Kh/Python-Journey) · [Base_Python](https://github.com/Umidjon-Kh/Base_Python) · [DSA](https://github.com/Umidjon-Kh/DSA)
+- 🗂️ **Projects:** [Python-Journey](https://github.com/Umidjon-Kh/Python-Journey) · [Base_Python](https://github.com/Umidjon-Kh/Base_Python) · [DSA](https://github.com/Umidjon-Kh/DSA)
 
 ---
 
 <div align="center">
 
-### 💭 Мой девиз
+### 💭 My Motto
 
-> ***"5 месяцев с нуля. Уже на PyPI и пишу Linux daemon'ы.***
-> ***Скорость — не суть. Суть — глубина понимания."***
+> ***"5 months from zero. Already on PyPI, writing Linux daemons.***
+> ***Speed isn't the point. Depth of understanding is."***
 
 </div>
 
 <div align="center">
   
-**Построено с 🔴 любовью к красному и архитектуре**
+**Built with 🔴 love for red and architecture**
 
 </div>
