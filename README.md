@@ -1,93 +1,120 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Umidjon+%F0%9F%91%8B;Python+Developer+%E2%80%94+5+months+in%2C+self-taught;I+build+until+I+understand.;Clean+architecture+is+not+optional.;NYR+%E2%80%94+Not+Your+Responsibility." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Umidjon+%F0%9F%91%8B;Python+Backend+Developer;Linux+Systems+Programmer;Clean+Architecture+Enthusiast" alt="typing-svg" />
 
 <br/>
 
-[![PyPI](https://img.shields.io/pypi/v/snaps-cacher?label=snaps-cacher&color=E63946&style=flat-square)](https://pypi.org/project/snaps-cacher/)
-![Profile Views](https://komarev.com/ghpvc/?username=Umidjon-Kh&color=E63946&style=flat-square)
+[![PyPI](https://img.shields.io/badge/PyPI-snaps--cacher-E63946?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/snaps-cacher/)
+![Profile Views](https://komarev.com/ghpvc/?username=Umidjon-Kh&color=E63946&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/Umidjon-Kh?style=for-the-badge&color=E63946)](https://github.com/Umidjon-Kh)
 
 </div>
 
 ---
 
-### 👤 Who I am
+## 👤 Кто я
 
 ```
-Name      : Umidjon Khodjaev
-Location  : Tashkent, Uzbekistan
-Schedule  : Nocturnal — best work happens after midnight
-Learning  : Python — 5 months in, started from absolute zero
-Focus     : Clean architecture · Backend · Linux systems programming
+Имя      : Умиджон Ходжаев
+Локация  : Ташкент, Узбекистан
+График   : Ночной сокол — лучше всего работается после полуночи
+Опыт     : Python — 5 месяцев с нуля, никакого bootcamp'а
+Фокус    : Чистая архитектура · Backend · Системное программирование Linux
 ```
 
-Self-taught from zero. No bootcamp, no courses — just building real things
-and refusing to move on until I actually understand what's happening under the hood.
-Five months in and I'm already building a production-grade Linux filesystem
-watcher daemon with systemd integration, inotify, Unix sockets, and a
-full hexagonal architecture.
+**Самоучка с нулевого уровня.** Никаких курсов, никакого bootcamp'а — только реальные проекты и отказ переходить дальше, пока не пойму, как всё работает под капотом.
 
-Every project I build teaches me something I couldn't have learned any other way.
-I don't do tutorials. I do projects.
+Всего за 5 месяцев уже построил production-ready Linux filesystem watcher daemon с systemd интеграцией, inotify, Unix сокетами и полной гексагональной архитектурой.
+
+> **Каждый проект учит меня тому, чему я не смог бы научиться никак иначе. Я не делаю туториалы. Я делаю проекты.**
 
 ---
 
-### 🧠 How I think
+## 🧠 Моя философия кода
 
-- **NYR — Not Your Responsibility.** Every component does exactly one thing.
-  If it's not your job, don't touch it. This principle runs through every
-  line of code I write.
+### 🎯 **NYR — Not Your Responsibility**
+Каждый компонент делает ровно одно. Если это не твоя работа — не трогай это. Этот принцип пронизывает каждую строку кода.
 
-- **Build until you understand.** I don't move to the next topic until the
-  current one is fully digested — not just "works", but understood deeply enough
-  to explain every decision.
+### 🔨 **Build Until You Understand**
+Я не перехожу к следующей теме, пока текущая не станет ясна на 100%. Не просто "работает", а понимаю каждое решение.
 
-- **Architecture first.** Clean hexagonal architecture isn't something I apply
-  to serious projects only. It's the default. Even a small CLI tool deserves
-  proper ports and adapters.
+### 🏗️ **Architecture First**
+Чистая гексагональная архитектура — это не для "серьёзных" проектов только. Это стандарт. Даже маленький CLI инструмент заслуживает правильные ports и adapters.
 
-- **Documentation is code.** I spend roughly 95% of my time on documentation
-  versus implementation. If it's not documented, it doesn't exist.
+### 📚 **Documentation is Code**
+Я трачу ~95% времени на документацию vs реализацию. Если нет документации — нет проекта.
 
 ---
 
-### 🛠️ Stack
+## 🛠️ Мой стек
 
-![Python](https://img.shields.io/badge/Python-E63946?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-E63946?style=flat-square&logo=linux&logoColor=white)
-![systemd](https://img.shields.io/badge/systemd-E63946?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E63946?style=flat-square&logo=git&logoColor=white)
-![Threading](https://img.shields.io/badge/Threading-E63946?style=flat-square&logo=python&logoColor=white)
-![Poetry](https://img.shields.io/badge/Poetry-E63946?style=flat-square&logo=python&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-E63946?style=flat-square&logo=pytest&logoColor=white)
+![Python](https://img.shields.io/badge/Python-E63946?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E63946?style=for-the-badge&logo=linux&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-E63946?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E63946?style=for-the-badge&logo=git&logoColor=white)
+![Threading](https://img.shields.io/badge/Threading-E63946?style=for-the-badge&logo=python&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-E63946?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-E63946?style=for-the-badge&logo=pytest&logoColor=white)
 
-**Concepts:** Hexagonal Architecture · Producer-Consumer · Dependency Injection · IPC · inotify · Unix Sockets · Lazy Dependency Graphs
-
----
-
-### 📦 Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🔍 [vakt](https://github.com/Umidjon-Kh/Python-Journey/tree/main/vakt_v2) | Linux filesystem watcher daemon. systemd unit, Unix socket IPC server, inotify with WatchNode tree (O(1) rename/move/delete), hexagonal architecture, graceful shutdown | `active` |
-| ⚡ [snaps-cacher](https://github.com/Umidjon-Kh/Python-Journey/tree/main/snaps) | Caching library with TTL, LRU, LFU and composable policies. Zero dependencies. Hexagonal architecture. Published on PyPI | ![PyPI](https://img.shields.io/pypi/v/snaps-cacher?style=flat-square&color=E63946) |
-| 🗂️ [klart](https://github.com/Umidjon-Kh/Base_Python/tree/main/klart) | CLI file organizer. Rule-based sorting by extension and size, dry-run, recursive mode, fully configurable. Hexagonal architecture | `stable` |
-| 📊 [DSA](https://github.com/Umidjon-Kh/DSA) | 70-80+ data structures and 15-20+ algorithms built from scratch with visualizations | `in progress` |
+**Концепции:** Hexagonal Architecture · Producer-Consumer · Dependency Injection · IPC · inotify · Unix Sockets · Lazy Dependency Graphs · Threading Models
 
 ---
 
-### 📊 GitHub Stats
+## 📦 Мои проекты
+
+| 🔍 Проект | 📝 Описание | 🔴 Статус |
+|-----------|-----------|---------|
+| **[vakt](https://github.com/Umidjon-Kh/Python-Journey/tree/main/vakt_v2)** | Linux filesystem watcher daemon с systemd, Unix socket IPC, inotify, WatchNode tree структура | ✅ Production |
+| **[snaps-cacher](https://github.com/Umidjon-Kh/Python-Journey/tree/main/snaps)** | Кеширующая библиотека с TTL, LRU, LFU и composable policies. Zero dependencies. На PyPI | ✅ Published |
+| **[klart](https://github.com/Umidjon-Kh/Base_Python/tree/main/klart)** | CLI органайзер файлов. Rule-based sorting, dry-run, рекурсивный режим | ✅ Complete |
+| **[DSA](https://github.com/Umidjon-Kh/DSA)** | 70+ структур данных и 15+ алгоритмов с визуализацией | 🔄 In Progress |
+
+---
+
+## 🎓 Чему я научился
+
+- ✅ Архитектурное мышление (не просто код, а система)
+- ✅ Linux kernel interfaces (inotify, Unix sockets, systemd)
+- ✅ Асинхронное программирование и многопоточность
+- ✅ Dependency Injection и инверсия управления
+- ✅ Как правильно читать исходный код других
+- ✅ TDD и модульное тестирование
+- ✅ Production-ready code (обработка ошибок, логирование, конфиг)
+
+---
+
+## 📊 GitHub статистика
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Umidjon-Kh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=E63946&icon_color=E63946&text_color=C9D1D9&bg_color=0D1117" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umidjon-Kh&layout=compact&theme=github_dark&hide_border=true&title_color=E63946&text_color=C9D1D9&bg_color=0D1117" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umidjon-Kh&theme=github-dark-blue&hide_border=true&ring=E63946&fire=E63946&currStreakLabel=E63946" width="60%"/>
+
+![Umidjon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umidjon-Kh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=E63946&icon_color=E63946&text_color=C9D1D9&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umidjon-Kh&layout=compact&theme=github_dark&hide_border=true&title_color=E63946&text_color=C9D1D9&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Umidjon-Kh&theme=github-dark-blue&hide_border=true&ring=E63946&fire=E63946&currStreakLabel=E63946)
+
 </div>
 
 ---
 
+## 🔗 Ссылки
+
+- 🐍 **PyPI:** [@snaps-cacher](https://pypi.org/project/snaps-cacher/)
+- 📂 **GitHub:** [@Umidjon-Kh](https://github.com/Umidjon-Kh)
+- 🗂️ **Проекты:** [Python-Journey](https://github.com/Umidjon-Kh/Python-Journey) · [Base_Python](https://github.com/Umidjon-Kh/Base_Python) · [DSA](https://github.com/Umidjon-Kh/DSA)
+
+---
+
 <div align="center">
 
-*"5 months in. Started from zero. Already shipped to PyPI and building Linux daemons.*
-*The speed is not the point — the depth is."*
+### 💭 Мой девиз
+
+> ***"5 месяцев с нуля. Уже на PyPI и пишу Linux daemon'ы.***
+> ***Скорость — не суть. Суть — глубина понимания."***
+
+</div>
+
+<div align="center">
+  
+**Построено с 🔴 любовью к красному и архитектуре**
 
 </div>
