@@ -63,10 +63,10 @@ I spend ~95% of my time on documentation versus implementation. No docs? No proj
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **[vakt](https://github.com/Umidjon-Kh/Python-Journey/tree/main/vakt_v2)** | Linux filesystem watcher daemon — systemd, Unix socket IPC, inotify with WatchNode tree (O(1) rename/move/delete), hexagonal architecture | 🔄 In Progress |
+| **[vakt](https://github.com/Umidjon-Kh/Python-Journey/tree/main/vakt_v2)** | Linux filesystem watcher daemon — systemd, Unix socket IPC, inotify with WatchNode tree (O(1) rename/move/delete), hexagonal architecture | 🚧 In Development |
 | **[snaps-cacher](https://github.com/Umidjon-Kh/Python-Journey/tree/main/snaps)** | Caching library — TTL, LRU, LFU, composable policies. Zero dependencies. Hexagonal architecture. Published on PyPI | ✅ Complete |
 | **[klart](https://github.com/Umidjon-Kh/Base_Python/tree/main/klart)** | CLI file organizer. Rule-based sorting by extension and size, dry-run mode, recursive operations. Hexagonal architecture | ✅ Complete |
-| **[DSA](https://github.com/Umidjon-Kh/DSA)** | 70+ data structures and 15+ algorithms built from scratch with visualizations | 🔄 In Progress |
+| **[DSA](https://github.com/Umidjon-Kh/DSA)** | 70+ data structures and 15+ algorithms built from scratch with visualizations | 🚧 Temporary Freezed |
 
 ---
 
